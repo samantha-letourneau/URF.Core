@@ -3,15 +3,17 @@
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <LangVersion>latest</LangVersion>
-    <Version>5.0.0</Version>
+    <Version>6.0.1</Version>
     <Authors>Long Le, Tony Sneed</Authors>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/urfnet/URF.Core</PackageProjectUrl>
     <PackageIcon>icon.png</PackageIcon>
     <Title>URF - Unit of Work and Repositories Framework for .NET Standard and .NET Core (Official): Trackable Entities Core</Title>
-    <Description>This official URF framework minimizes the surface area of your ORM technlogy from disseminating in your application. Framework provides an elegant way to implement a reusable and extensible Unit of Work and Repository pattern.</Description>
+    <Description>This official URF framework minimizes the surface area of your ORM technlogy from disseminating in your application. Framework provides an elegant way to implement a reusable and extensible Unit of Work and Repository pattern. Project updated for .NET6.</Description>
     <PackageTags>repository unitofwork patterns</PackageTags>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>URF.NET6.EF.Trackable</PackageId>
+    <Company />
   </PropertyGroup>
 
   <ItemGroup>
